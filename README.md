@@ -1,0 +1,2 @@
+# People_Track_rtsp
+rtsp连接俯视摄像头使用bytetrack进行人物跟踪，人员计数
